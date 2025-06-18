@@ -55,6 +55,7 @@
 
 ### Временные ряды
 [Временные ряды. Простые решения](https://habr.com/ru/post/553658/)  
+[Анализ временных рядов](https://habr.com/ru/companies/otus/articles/919156/)  
 
 ### Кластеризация
 
@@ -63,7 +64,7 @@
 [HuggingFace Cookbook](https://huggingface.co/learn/cookbook/index)  
 [Как я сделал RAG для своей компании](https://habr.com/ru/articles/888352/)  
 [как создать RAG-пайплайн для анализа Telegram-каналов](https://habr.com/ru/companies/datafeel/articles/916602/)  
-[RAG на практике: чат-бот для корпоративной вики](https://habr.com/ru/companies/banki/articles/917642/)
+[RAG на практике: чат-бот для корпоративной вики](https://habr.com/ru/companies/banki/articles/917642/)  
 
 # Хранение и обработка данных
 
