@@ -41,6 +41,7 @@
 [Курс Машинное обучение и анализ данных](https://github.com/minhdai2410/machine-learning-data-analysis-yandex-mipt-coursera/tree/master)  
 [Математика для Data Science и машинного обучения за 8 месяцев](https://habr.com/ru/post/708752/)  
 [Строим пайплайн в sсikit-learn](https://habr.com/ru/companies/yandex_praktikum/articles/756474/)  
+[Выявляем аномалии с помощью Isolation Forest](https://habr.com/ru/companies/otus/articles/881086/)  
 
 ### Метрики
 [WoE](https://habr.com/ru/companies/avito/articles/879680/)  
@@ -58,7 +59,9 @@
 ### Кластеризация
 
 ### LLM
-
+[LLM Cookbook](https://github.com/Exorust/LLM-Cookbook/tree/main)  
+[HuggingFace Cookbook](https://huggingface.co/learn/cookbook/index)  
+[Как я сделал RAG для своей компании](https://habr.com/ru/articles/888352/)  
 
 # Хранение и обработка данных
 
@@ -105,8 +108,3 @@
 [Визуализация данных с помощью Python Dash](https://habr.com/ru/company/otus/blog/716190/)  
 [Heatmap на интерактивной карте с помощью folium](https://habr.com/ru/post/709092/)  
 
->[Выявляем аномалии с помощью Isolation Forest](https://habr.com/ru/companies/otus/articles/881086/)
->[Что нужно знать и уметь дата-инженеру](https://habr.com/ru/companies/yandex_praktikum/articles/886072/)
->[Как я сделал RAG для своей компании](https://habr.com/ru/articles/888352/)
->[LLM Cookbook](https://github.com/Exorust/LLM-Cookbook/tree/main)
->[HuggingFace Cookbook](https://huggingface.co/learn/cookbook/index)
