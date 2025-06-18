@@ -1,7 +1,10 @@
-### Обучение
+# Обучение
 [Основы Python](https://education.yandex.ru/handbook/python)  
 
-### Основы
+
+# Основы
+
+### Общее
 [Списковые включения в Python мощнее, чем можно подумать](https://habr.com/ru/company/wunderfund/blog/687520/)  
 [Руководство по обработке исключений в Python](https://habr.com/ru/companies/wunderfund/articles/736526/)  
 [Исчерпывающее руководство по множествам в Python](https://habr.com/ru/company/wunderfund/blog/693592/)  
@@ -23,6 +26,18 @@
 ### Стандартная библиотека
 [Itertools](https://habr.com/ru/company/otus/blog/529356/)  
 
+
+# Прикладные знания
+
+### Общее
+[Пишем на Питоне сразу хорошо](https://habr.com/ru/post/564598/)  
+[Как организовать код в Python-проекте, чтобы потом не пожалеть](https://habr.com/ru/company/wunderfund/blog/678634/)
+[Как перестать жить и начать беспокоиться о потреблении памяти](https://habr.com/ru/post/650273/)  
+[9 причин использовать dataclasses в Python](https://habr.com/ru/company/otus/blog/650257/)  
+[Python: как уменьшить расход памяти вдвое, добавив всего одну строчку кода?](https://habr.com/ru/post/427909/)  
+[Знакомство с тестированием в Python](https://habr.com/ru/company/otus/blog/433358/)  
+[Юнит-тестирование. Использование unittest](https://www.youtube.com/watch?v=YD7aYJh3k-w&ab_channel=PythonRussian)  
+
 ### Регулярные выражения
 [Regexper](https://regexper.com/)  
 [Regex101](https://regex101.com/)  
@@ -32,15 +47,6 @@
 
 ### Асинхронность
 [Asyncio](https://itnan.ru/post.php?c=1&p=667630)  
-
-### Разработка
-[Пишем на Питоне сразу хорошо](https://habr.com/ru/post/564598/)  
-[Как организовать код в Python-проекте, чтобы потом не пожалеть](https://habr.com/ru/company/wunderfund/blog/678634/)
-[Как перестать жить и начать беспокоиться о потреблении памяти](https://habr.com/ru/post/650273/)  
-[9 причин использовать dataclasses в Python](https://habr.com/ru/company/otus/blog/650257/)  
-[Python: как уменьшить расход памяти вдвое, добавив всего одну строчку кода?](https://habr.com/ru/post/427909/)  
-[Знакомство с тестированием в Python](https://habr.com/ru/company/otus/blog/433358/)  
-[Юнит-тестирование. Использование unittest](https://www.youtube.com/watch?v=YD7aYJh3k-w&ab_channel=PythonRussian)  
 
 ### Telegram
 [Пишем Telegram бот текущей погоды по IP адресу на Python aiogram](https://habr.com/ru/post/684038/)  
