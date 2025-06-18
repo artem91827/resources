@@ -62,6 +62,7 @@
 [LLM Cookbook](https://github.com/Exorust/LLM-Cookbook/tree/main)  
 [HuggingFace Cookbook](https://huggingface.co/learn/cookbook/index)  
 [Как я сделал RAG для своей компании](https://habr.com/ru/articles/888352/)  
+[как создать RAG-пайплайн для анализа Telegram-каналов](https://habr.com/ru/companies/datafeel/articles/916602/)
 
 # Хранение и обработка данных
 
