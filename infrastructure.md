@@ -1,16 +1,16 @@
-### Git
+# Git
 [Pro Git](https://git-scm.com/book/ru/v2)  
 [Git за полчаса](https://proglib.io/p/git-for-half-an-hour)  
 [Git. Большой практический выпуск](https://www.youtube.com/watch?v=SEvR78OhGtw&ab_channel=%D0%90%D1%80%D1%82%D0%B5%D0%BC%D0%9C%D0%B0%D1%82%D1%8F%D1%88%D0%BE%D0%B2)  
 [GIT - Полный Курс Git и GitHub Для Начинающих](https://www.youtube.com/watch?v=O00FTZDxD0o)  
 [Курс работы с Git и GitLab](https://www.youtube.com/playlist?list=PLbf8m52BvqlFlblJqQKPuEU26pwgqe7zK)  
 
-### Docker
+# Docker
 [Docker для Начинающих](https://www.youtube.com/watch?v=n9uCgUzfeRQ&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD)  
 [Docker с 0 до 100%. Всё, что нужно знать](https://www.youtube.com/watch?v=O8N1lvkIjig)  
 [Docker](https://stepik.org/course/123300/promo)  
 
-### Deployment
+# Deployment
 [Replit](https://replit.com/)  
 [Gradio](https://gradio.app/)  
 [Streamlit](https://streamlit.io/)  
