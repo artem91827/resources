@@ -7,7 +7,6 @@
 
 # Статистика
 
-### Общее
 [Основы статистики 1](https://stepik.org/course/76/promo)  
 [Основы статистики 2](https://stepik.org/course/524/promo)  
 [Основы статистики 3](https://stepik.org/course/2152/promo)  
@@ -36,7 +35,6 @@
 
 # Машинное обучение
 
-### Общее
 [Учебник по машинному обучению (ШАД)](https://academy.yandex.ru/handbook/ml)  
 [Курс Машинное обучение и анализ данных](https://github.com/minhdai2410/machine-learning-data-analysis-yandex-mipt-coursera/tree/master)  
 [Математика для Data Science и машинного обучения за 8 месяцев](https://habr.com/ru/post/708752/)  
@@ -84,6 +82,11 @@
 [Бамбук, Mito-лист и Деталь, или как подготовиться ко встрече с пандами](https://habr.com/ru/post/690044/)  
 [4 анти-паттерна pandas и способы борьбы с ними](https://habr.com/ru/company/wunderfund/blog/682388/)  
 [Создаем простой ETL на Python](https://habr.com/ru/post/664020/)  
+[Как работать с датами в pandas](https://habr.com/ru/company/wunderfund/blog/677068/)  
+[Цепочка методов в pandas](https://habr.com/ru/post/722170/)  
+[Полезные методы работы с данными в Pandas. Часть 1](https://habr.com/ru/companies/otus/articles/727222/)  
+[Полезные методы работы с данными в Pandas. Часть 2](https://habr.com/ru/companies/otus/articles/728118/)  
+[Полезные методы работы с данными в Pandas. Часть 3](https://habr.com/ru/companies/otus/articles/731844/)  
 
 ### Big data
 [Hadoop. Система для обработки больших объемов данных](https://stepik.org/150)  
@@ -92,18 +95,12 @@
 ### Гео данные
 [Мистика культурных ценностей Петербурга глазами аналитика](https://habr.com/ru/post/674476/)  
 [Геоаналитика с помощью Python и открытых данных: пошаговое руководство](https://habr.com/ru/post/579838/)  
-[Как работать с датами в pandas](https://habr.com/ru/company/wunderfund/blog/677068/)  
-[Цепочка методов в pandas](https://habr.com/ru/post/722170/)  
-[Полезные методы работы с данными в Pandas. Часть 1](https://habr.com/ru/companies/otus/articles/727222/)  
-[Полезные методы работы с данными в Pandas. Часть 2](https://habr.com/ru/companies/otus/articles/728118/)  
-[Полезные методы работы с данными в Pandas. Часть 3](https://habr.com/ru/companies/otus/articles/731844/)  
 [HowTo: базовая геоаналитика](https://habr.com/ru/articles/833090/)  
 [Начало работы с растровыми геоданными средствами GDAL/Python](https://habr.com/ru/articles/841886/)  
 
 
 # Визуализация данных
 
-### Общее
 [Google Looker Studio](https://lookerstudio.google.com/)  
 [Datawrapper](https://www.datawrapper.de/)  
 [Yandex Datalens](https://datalens.yandex.cloud/)  
