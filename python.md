@@ -4,7 +4,6 @@
 
 # Основы
 
-### Общее
 [Списковые включения в Python мощнее, чем можно подумать](https://habr.com/ru/company/wunderfund/blog/687520/)  
 [Руководство по обработке исключений в Python](https://habr.com/ru/companies/wunderfund/articles/736526/)  
 [Исчерпывающее руководство по множествам в Python](https://habr.com/ru/company/wunderfund/blog/693592/)  
@@ -29,7 +28,6 @@
 
 # Прикладные знания
 
-### Общее
 [Пишем на Питоне сразу хорошо](https://habr.com/ru/post/564598/)  
 [Как организовать код в Python-проекте, чтобы потом не пожалеть](https://habr.com/ru/company/wunderfund/blog/678634/)
 [Как перестать жить и начать беспокоиться о потреблении памяти](https://habr.com/ru/post/650273/)  
