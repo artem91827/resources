@@ -5,10 +5,14 @@
 [GIT - Полный Курс Git и GitHub Для Начинающих](https://www.youtube.com/watch?v=O00FTZDxD0o)  
 [Курс работы с Git и GitLab](https://www.youtube.com/playlist?list=PLbf8m52BvqlFlblJqQKPuEU26pwgqe7zK)  
 
+<br>
+
 # Docker
 [Docker для Начинающих](https://www.youtube.com/watch?v=n9uCgUzfeRQ&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD)  
 [Docker с 0 до 100%. Всё, что нужно знать](https://www.youtube.com/watch?v=O8N1lvkIjig)  
 [Docker](https://stepik.org/course/123300/promo)  
+
+<br>
 
 # Deployment
 [Replit](https://replit.com/)  
