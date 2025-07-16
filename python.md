@@ -1,6 +1,7 @@
 # Обучение
 [Основы Python](https://education.yandex.ru/handbook/python)  
 
+<br>
 
 # Основы
 
@@ -25,6 +26,7 @@
 ### Стандартная библиотека
 [Itertools](https://habr.com/ru/company/otus/blog/529356/)  
 
+<br>
 
 # Прикладные знания
 
