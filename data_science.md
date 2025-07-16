@@ -4,6 +4,7 @@
 [Анализ данных в R 1](https://stepik.org/course/129/promo)  
 [Анализ данных в R 2](https://stepik.org/course/724/promo)  
 
+<br>
 
 # Статистика
 
@@ -32,6 +33,7 @@
 [Как улучшить ваши A/B-тесты 1](https://habr.com/ru/companies/avito/articles/571094/)  
 [Как улучшить ваши A/B-тесты 2](https://habr.com/ru/companies/avito/articles/571096/)  
 
+<br>
 
 # Машинное обучение
 
@@ -68,6 +70,8 @@
 [как создать RAG-пайплайн для анализа Telegram-каналов](https://habr.com/ru/companies/datafeel/articles/916602/)  
 [RAG на практике: чат-бот для корпоративной вики](https://habr.com/ru/companies/banki/articles/917642/)  
 
+<br>
+
 # Хранение и обработка данных
 
 ### SQL
@@ -98,6 +102,7 @@
 [HowTo: базовая геоаналитика](https://habr.com/ru/articles/833090/)  
 [Начало работы с растровыми геоданными средствами GDAL/Python](https://habr.com/ru/articles/841886/)  
 
+<br>
 
 # Визуализация данных
 
