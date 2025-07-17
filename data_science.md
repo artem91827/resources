@@ -91,6 +91,7 @@
 [Полезные методы работы с данными в Pandas. Часть 1](https://habr.com/ru/companies/otus/articles/727222/)  
 [Полезные методы работы с данными в Pandas. Часть 2](https://habr.com/ru/companies/otus/articles/728118/)  
 [Полезные методы работы с данными в Pandas. Часть 3](https://habr.com/ru/companies/otus/articles/731844/)  
+[Работа с данными в DuckDB или не pandas’ом единым сыт DS](https://habr.com/ru/companies/cinimex/articles/913878/)
 
 ### Big data
 [Hadoop. Система для обработки больших объемов данных](https://stepik.org/150)  
