@@ -1,4 +1,3 @@
-# Обучение
 [Open Data Sciense Course](https://mlcourse.ai/book/index.html)  
 [Основы программирования на R](https://stepik.org/course/497/promo)  
 [Анализ данных в R 1](https://stepik.org/course/129/promo)  
