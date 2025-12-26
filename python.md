@@ -8,6 +8,7 @@
 [Списковые включения в Python мощнее, чем можно подумать](https://habr.com/ru/company/wunderfund/blog/687520/)  
 [Руководство по обработке исключений в Python](https://habr.com/ru/companies/wunderfund/articles/736526/)  
 [Исчерпывающее руководство по множествам в Python](https://habr.com/ru/company/wunderfund/blog/693592/)  
+[Топ-5 фишек Python](https://habr.com/ru/articles/979590/)  
 
 ### Итераторы
 [Итераторы в Python для самых маленьких](https://habr.com/ru/company/domclick/blog/674194/)  
