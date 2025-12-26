@@ -17,7 +17,6 @@
 [Как сравнивать распределения. От визуализации до статистических тестов](https://habr.com/ru/company/skillfactory/blog/674880/)  
 [Параметрический анализ данных](https://habr.com/ru/companies/otus/articles/742984/)  
 [Изучаем математическую статистику](https://habr.com/ru/articles/753548/)  
-[Способ найти причинно-следственную связь без экспериментов](https://habr.com/ru/companies/vkusvill/articles/843744/)  
 
 ### А/Б тесты
 [A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979?ref=vc.ru)  
@@ -31,6 +30,10 @@
 [Bootstrap: швейцарский нож аналитика](https://habr.com/ru/articles/762648/)  
 [Как улучшить ваши A/B-тесты 1](https://habr.com/ru/companies/avito/articles/571094/)  
 [Как улучшить ваши A/B-тесты 2](https://habr.com/ru/companies/avito/articles/571096/)  
+[Иллюзия 95%: гайд по самой частой элементарной ошибке в Data Science](https://habr.com/ru/articles/974186/)  
+[Generalized Propensity Score](https://habr.com/ru/companies/garage8/articles/974802/)  
+[Способ найти причинно-следственную связь без экспериментов](https://habr.com/ru/companies/vkusvill/articles/843744/)  
+[Всё, что вы хотели знать о t-тесте, но боялись спросить](https://habr.com/ru/articles/969226/) 
 
 <br>
 
@@ -41,6 +44,10 @@
 [Математика для Data Science и машинного обучения за 8 месяцев](https://habr.com/ru/post/708752/)  
 [Строим пайплайн в sсikit-learn](https://habr.com/ru/companies/yandex_praktikum/articles/756474/)  
 [Выявляем аномалии с помощью Isolation Forest](https://habr.com/ru/companies/otus/articles/881086/)  
+[Топ вопросов с Data Science собеседований](https://habr.com/ru/articles/926398/)  
+[Топ вопросов с Data Science собеседований](https://habr.com/ru/articles/955636/)  
+[Топ вопросов с NLP собеседований](https://habr.com/ru/articles/972178/)  
+[Thefittest: зачем я пишу свою open-source библиотеку эволюционных алгоритмов](https://habr.com/ru/articles/961924/)  
 
 ### Метрики
 [WoE](https://habr.com/ru/companies/avito/articles/879680/)  
@@ -51,6 +58,7 @@
 [Как полюбить задачи регрессии](https://habr.com/ru/post/689338/)  
 [Оптимизационные задачи в ритейле](https://habr.com/ru/company/X5Tech/blog/685590/)  
 [Выжимаем из Random Forest максимум: увеличиваем полноту при 100% точности](https://habr.com/ru/articles/800489/)  
+[Статистика под капотом LinearRegression](https://habr.com/ru/articles/964438/)  
 
 ### Временные ряды
 [Временные ряды. Простые решения](https://habr.com/ru/post/553658/)  
@@ -68,6 +76,10 @@
 [Как я сделал RAG для своей компании](https://habr.com/ru/articles/888352/)  
 [как создать RAG-пайплайн для анализа Telegram-каналов](https://habr.com/ru/companies/datafeel/articles/916602/)  
 [RAG на практике: чат-бот для корпоративной вики](https://habr.com/ru/companies/banki/articles/917642/)  
+[Сравнительный анализ 18 LLM моделей](https://habr.com/ru/articles/971864/)  
+[Как я построил RAG-систему](https://habr.com/ru/articles/955798/)  
+[Какой табличный формат LLM понимают лучше всего](https://habr.com/ru/articles/955778/)  
+[GPT-5.1 Prompting Guide](https://cookbook.openai.com/examples/gpt-5/gpt-5-1_prompting_guide)  
 
 <br>
 
@@ -90,7 +102,8 @@
 [Полезные методы работы с данными в Pandas. Часть 1](https://habr.com/ru/companies/otus/articles/727222/)  
 [Полезные методы работы с данными в Pandas. Часть 2](https://habr.com/ru/companies/otus/articles/728118/)  
 [Полезные методы работы с данными в Pandas. Часть 3](https://habr.com/ru/companies/otus/articles/731844/)  
-[Работа с данными в DuckDB или не pandas’ом единым сыт DS](https://habr.com/ru/companies/cinimex/articles/913878/)
+[Работа с данными в DuckDB или не pandas’ом единым сыт DS](https://habr.com/ru/companies/cinimex/articles/913878/)  
+[Polars — убийца Pandas на максималках](https://habr.com/ru/articles/946788/)  
 
 ### Big data
 [Hadoop. Система для обработки больших объемов данных](https://stepik.org/150)  
@@ -117,3 +130,8 @@
 [Визуализация данных с помощью Python Dash](https://habr.com/ru/company/otus/blog/716190/)  
 [Heatmap на интерактивной карте с помощью folium](https://habr.com/ru/post/709092/)  
 
+<br>
+
+# Аналитика
+
+[Анализ 400k вакансий hh.ru](https://habr.com/ru/articles/979118/)  
